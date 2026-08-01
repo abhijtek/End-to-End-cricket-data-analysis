@@ -88,3 +88,9 @@ The Power BI report contains role-based analysis pages and the final Best Playin
 ## Conclusion
 
 This project demonstrates a practical analytics workflow: working with sourced sports data, transforming it with Pandas, defining player-selection parameters, and communicating the results in Power BI. It is a useful portfolio project for demonstrating data cleaning, analysis, DAX, and dashboard design skills.
+
+## Author
+
+**Abhijeet Singh Rajput**
+
+Student, IIT Dhanbad
