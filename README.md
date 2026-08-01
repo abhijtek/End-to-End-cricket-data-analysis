@@ -1,6 +1,6 @@
 # T20 World Cup 2022 — Best Playing XI Analysis
 
-An end-to-end cricket data analytics project that uses the ICC Men's T20 World Cup 2022 to identify a balanced **Best Playing XI**—a team selected to represent Earth in a match against aliens.
+An end-to-end cricket data analytics project that uses the ICC Men's T20 World Cup 2022 to identify a balanced **Best Playing XI**.
 
 The project combines data preparation in Python and Pandas with an interactive Power BI dashboard to assess player performance across specialist roles.
 
